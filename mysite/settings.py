@@ -26,8 +26,6 @@ SECRET_KEY = 'gt^70@&&%8@4^jkzkg8mtbm$8zq%a5t@bsi1%g#%=-#cd=ezd3'
 DEBUG = True
 
 ALLOWED_HOSTS = ['127.0.0.1','salazar.pythonanywhere.com']
-
-
 # Application definition
 
 INSTALLED_APPS = [
